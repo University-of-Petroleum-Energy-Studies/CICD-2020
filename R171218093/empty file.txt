@@ -1,1 +1,1 @@
-CICD
+https://shashwat9kumar.medium.com/automated-ci-project-for-maven-using-a-remote-jenkins-server-on-aws-ec2-instance-and-github-509220e191f3
